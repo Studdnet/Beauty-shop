@@ -1,3 +1,6 @@
+# Beauty-shop
+This is the first website for my future portfolio
+
 <h2>Instruction for install GULP and all plugins for this project:</h2>
 
 1. nmm i -g gulp npm-check-updates;   
